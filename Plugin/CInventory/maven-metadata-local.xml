@@ -3,13 +3,13 @@
   <groupId>Plugin</groupId>
   <artifactId>CInventory</artifactId>
   <versioning>
-    <release>1.12.2</release>
+    <release>1.16.4</release>
     <versions>
       <version>1.9.4</version>
       <version>1.16.4</version>
       <version>1.16.2</version>
       <version>1.12.2</version>
     </versions>
-    <lastUpdated>20201229130909</lastUpdated>
+    <lastUpdated>20210120190852</lastUpdated>
   </versioning>
 </metadata>
