@@ -6,4 +6,4 @@ mvn install:install-file -DgroupId=<> -DartifactId=<> -Dversion=<> -Dfile=<> -Dp
 
 #CInventory
 
-mvn install:install-file -DgroupId=Plugin -DartifactId=CInventory -Dversion=2.3-SNAPSHOT -Dfile=D:\Chad\JAVA\MC\Utils\pluginutils\CInventory\target\CInventory-2.3-SNAPSHOT.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
+mvn install:install-file -DgroupId=Plugin -DartifactId=CInventory -Dversion=3.0-SNAPSHOT -Dfile=D:\Chad\JAVA\MC\Utils\pluginutils\CInventory\target\CInventory-3.0-SNAPSHOT.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
